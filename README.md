@@ -1,5 +1,5 @@
 # Knight Soul 
-## Dungeon crawler game
+Dungeon crawler game
 
 ## Roles:
 Ben -- Scripting and Desinging environment
