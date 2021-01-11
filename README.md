@@ -1,7 +1,7 @@
-Game name: Knight Soul (could be changed later)
-Dungeon crawler game
+# Knight Soul 
+## Dungeon crawler game
 
-Roles:
+## Roles:
 Ben -- Scripting and Desinging environment
 Jad -- Music and sound effects
 Bella -- Animations
